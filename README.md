@@ -1,3 +1,3 @@
 # naming conventions
 
-See the Wiki
+See the [Wiki](https://github.com/RichardMarks/naming/wiki)
